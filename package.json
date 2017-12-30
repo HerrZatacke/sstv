@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/HerrZatacke/sstv",
   "scripts": {
-    "start": "echo \"This is just a placehoder for now. \""
+    "start": "node index.js"
   },
   "keywords": [
     "sstv",
