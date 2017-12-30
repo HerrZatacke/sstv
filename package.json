@@ -1,0 +1,16 @@
+{
+  "name": "sstv",
+  "version": "0.0.1",
+  "description": "Convert audio files images to waveforms and vice versa",
+  "main": "index.js",
+  "repository": "https://github.com/HerrZatacke/sstv",
+  "scripts": {
+    "start": "echo \"This is just a placehoder for now. \""
+  },
+  "keywords": [
+    "sstv",
+    "ham radio"
+  ],
+  "author": "Herr Zatacke",
+  "license": "MIT"
+}
